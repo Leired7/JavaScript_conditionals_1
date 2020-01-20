@@ -7,7 +7,5 @@ Para ello, vamos a crear un programa que, dependiendo del color de la camiseta, 
 Utiliza la siguiente plantilla para crear el programa:
 <br>
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+let color = 'negra';   // Esta variable representa el color de la camiseta. Esta persona tiene la camiseta negra, por lo que debería aparecer el mensaje en la consola de "Lo siento, si quieres entrar tienes que cambiarte de camiseta". Puedes cambiar el color a otros para ver los diferentes resultados
 ```
